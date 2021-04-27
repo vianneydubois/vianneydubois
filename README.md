@@ -6,4 +6,4 @@ Currently working on / learning :
  - AVR C programming : ATMega & ATtiny MCUs
  - GNSS desktop GUI application through a USB / serial interface
  - Portable GNSS speed and position data logger for water sports (windsurfing, sport catamarans...)
- - **AP2** : a simple performance prediction program for RC plane preliminary design
+ - **AP3** : a simple performance prediction program for RC plane preliminary design
